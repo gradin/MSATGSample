@@ -1,0 +1,24 @@
+﻿.voteButton {
+    border-radius: 5px 5px 5px 5px;
+    background-color: green;
+    color: white;
+    height: 30px;
+    width: 60px;
+}
+
+#section1 {
+    background-color: #168ccc;
+    color: #dedeff;
+}
+
+h2 {
+    text-align: center;
+}
+
+.container {
+   width:1200px
+}
+.gender{
+        color: #dcdcdc;
+
+}

@@ -1,0 +1,59 @@
+﻿@{
+    ViewBag.Title = "Blue And Yellow Box";
+}
+<head>
+    <link rel="stylesheet" type="text/css" href="~/Content/styles.css" />
+    <script type="text/javascript" src="~/Scripts/angular.min.js"></script>
+    <script type="text/javascript" src="~/Scripts/Gender.js"></script>
+</head>
+<div class="jumbotron">
+    <p class="lead text-center">Hello, For your consideration</p>
+</div>
+<div class="container">
+
+    <div class="row">
+        <div class="col-md-6 col-md-offset-3">
+            <h1 class="text-center">I am..</h1>
+        </div>
+    </div>
+    <div class="row">
+        <div class="col-md-offset-4 col-md-2" id="gender">Female</div>
+        <div class="col-md-offset-1 col-md-2">Male</div>
+    </div>
+    <div class="row">
+        <div class="col-md-offset-3 col-md-2">
+            <img src="~/Content/Image/femaleIcon.png" width="250" height="250" />
+        </div>
+        <div class="col-md-offset-1 col-md-2">
+            <img src="~/Content/Image/maleIcon.png" width="250" height="250" />
+        </div>
+
+    </div>
+    <div class="row">
+        <div ng-app="Gender" ng-controller="GetVoteStatsCtrl">
+    <div ng-if="data.females>data.males">
+                <div class="col-md-offset-4 col-md-2" id="femalePercentage"><font color="green">{{data.females}}%</font></div>
+                <div class="col-md-offset-1 col-md-2" id="malePercentage"><font color="red">{{data.males}}%</font></div>
+            </div>
+            <div ng-if="data.females<data.males">
+                <div class="col-md-offset-4 col-md-2" id="femalePercentage"><font color="red">{{data.females}}%</font></div>
+                <div class="col-md-offset-1 col-md-2" id="malePercentage"><font color="green">{{data.males}}%</font></div>
+            </div>
+            <div ng-if="data.females==data.males">
+                <div class="col-md-offset-4 col-md-2" id="femalePercentage"><font color="black">{{data.females}}%</font></div>
+                <div class="col-md-offset-1 col-md-2" id="malePercentage"><font color="black">{{data.males}}%</font></div>
+            </div>
+        </div>
+    </div>
+    <div class="row">
+        <div class="col-md-offset-4 col-md-2"><button class="voteButton" id="voteFemale" onclick="vote('Female')">&#10004;Vote</button></div>
+        <div class="col-md-offset-1 col-md-2"><button class="voteButton" id="voteMale" onclick="vote('Male')">&#10004;Vote</button></div>
+    </div>
+</div>
+<script type="text/javascript">
+    var app = angular.module('Gender', []);
+    app.controller('GetVoteStatsCtrl', function ($scope, $http) {
+        $http.get(location.origin + "\\home\\getStats")
+        .then(function (response) { $scope.data = response.data });
+    });
+</script>

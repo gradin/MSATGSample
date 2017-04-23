@@ -1,0 +1,142 @@
+c:\users\tmoor\documents\visual studio 2015\Projects\MS ATG Code sample\MS ATG Code sample\bin\roslyn\csc.exe
+c:\users\tmoor\documents\visual studio 2015\Projects\MS ATG Code sample\MS ATG Code sample\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+c:\users\tmoor\documents\visual studio 2015\Projects\MS ATG Code sample\MS ATG Code sample\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+c:\users\tmoor\documents\visual studio 2015\Projects\MS ATG Code sample\MS ATG Code sample\bin\roslyn\Microsoft.CodeAnalysis.dll
+c:\users\tmoor\documents\visual studio 2015\Projects\MS ATG Code sample\MS ATG Code sample\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+c:\users\tmoor\documents\visual studio 2015\Projects\MS ATG Code sample\MS ATG Code sample\bin\roslyn\Microsoft.CSharp.Core.targets
+c:\users\tmoor\documents\visual studio 2015\Projects\MS ATG Code sample\MS ATG Code sample\bin\roslyn\Microsoft.VisualBasic.Core.targets
+c:\users\tmoor\documents\visual studio 2015\Projects\MS ATG Code sample\MS ATG Code sample\bin\roslyn\System.Collections.Immutable.dll
+c:\users\tmoor\documents\visual studio 2015\Projects\MS ATG Code sample\MS ATG Code sample\bin\roslyn\System.Reflection.Metadata.dll
+c:\users\tmoor\documents\visual studio 2015\Projects\MS ATG Code sample\MS ATG Code sample\bin\roslyn\vbc.exe
+c:\users\tmoor\documents\visual studio 2015\Projects\MS ATG Code sample\MS ATG Code sample\bin\roslyn\VBCSCompiler.exe
+c:\users\tmoor\documents\visual studio 2015\Projects\MS ATG Code sample\MS ATG Code sample\bin\roslyn\VBCSCompiler.exe.config
+c:\users\tmoor\documents\visual studio 2015\Projects\MS ATG Code sample\MS ATG Code sample\bin\MS ATG Code sample.dll.config
+c:\users\tmoor\documents\visual studio 2015\Projects\MS ATG Code sample\MS ATG Code sample\bin\MS ATG Code sample.dll
+c:\users\tmoor\documents\visual studio 2015\Projects\MS ATG Code sample\MS ATG Code sample\bin\MS ATG Code sample.pdb
+c:\users\tmoor\documents\visual studio 2015\Projects\MS ATG Code sample\MS ATG Code sample\bin\Antlr3.Runtime.dll
+c:\users\tmoor\documents\visual studio 2015\Projects\MS ATG Code sample\MS ATG Code sample\bin\EntityFramework.dll
+c:\users\tmoor\documents\visual studio 2015\Projects\MS ATG Code sample\MS ATG Code sample\bin\EntityFramework.SqlServer.dll
+c:\users\tmoor\documents\visual studio 2015\Projects\MS ATG Code sample\MS ATG Code sample\bin\Microsoft.AspNet.Identity.Core.dll
+c:\users\tmoor\documents\visual studio 2015\Projects\MS ATG Code sample\MS ATG Code sample\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+c:\users\tmoor\documents\visual studio 2015\Projects\MS ATG Code sample\MS ATG Code sample\bin\Microsoft.AspNet.Identity.Owin.dll
+c:\users\tmoor\documents\visual studio 2015\Projects\MS ATG Code sample\MS ATG Code sample\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+c:\users\tmoor\documents\visual studio 2015\Projects\MS ATG Code sample\MS ATG Code sample\bin\Microsoft.Owin.dll
+c:\users\tmoor\documents\visual studio 2015\Projects\MS ATG Code sample\MS ATG Code sample\bin\Microsoft.Owin.Host.SystemWeb.dll
+c:\users\tmoor\documents\visual studio 2015\Projects\MS ATG Code sample\MS ATG Code sample\bin\Microsoft.Owin.Security.Cookies.dll
+c:\users\tmoor\documents\visual studio 2015\Projects\MS ATG Code sample\MS ATG Code sample\bin\Microsoft.Owin.Security.dll
+c:\users\tmoor\documents\visual studio 2015\Projects\MS ATG Code sample\MS ATG Code sample\bin\Microsoft.Owin.Security.Facebook.dll
+c:\users\tmoor\documents\visual studio 2015\Projects\MS ATG Code sample\MS ATG Code sample\bin\Microsoft.Owin.Security.Google.dll
+c:\users\tmoor\documents\visual studio 2015\Projects\MS ATG Code sample\MS ATG Code sample\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+c:\users\tmoor\documents\visual studio 2015\Projects\MS ATG Code sample\MS ATG Code sample\bin\Microsoft.Owin.Security.OAuth.dll
+c:\users\tmoor\documents\visual studio 2015\Projects\MS ATG Code sample\MS ATG Code sample\bin\Microsoft.Owin.Security.Twitter.dll
+c:\users\tmoor\documents\visual studio 2015\Projects\MS ATG Code sample\MS ATG Code sample\bin\Microsoft.Web.Infrastructure.dll
+c:\users\tmoor\documents\visual studio 2015\Projects\MS ATG Code sample\MS ATG Code sample\bin\Newtonsoft.Json.dll
+c:\users\tmoor\documents\visual studio 2015\Projects\MS ATG Code sample\MS ATG Code sample\bin\Owin.dll
+c:\users\tmoor\documents\visual studio 2015\Projects\MS ATG Code sample\MS ATG Code sample\bin\System.Web.Helpers.dll
+c:\users\tmoor\documents\visual studio 2015\Projects\MS ATG Code sample\MS ATG Code sample\bin\System.Web.Mvc.dll
+c:\users\tmoor\documents\visual studio 2015\Projects\MS ATG Code sample\MS ATG Code sample\bin\System.Web.Optimization.dll
+c:\users\tmoor\documents\visual studio 2015\Projects\MS ATG Code sample\MS ATG Code sample\bin\System.Web.Razor.dll
+c:\users\tmoor\documents\visual studio 2015\Projects\MS ATG Code sample\MS ATG Code sample\bin\System.Web.WebPages.Deployment.dll
+c:\users\tmoor\documents\visual studio 2015\Projects\MS ATG Code sample\MS ATG Code sample\bin\System.Web.WebPages.dll
+c:\users\tmoor\documents\visual studio 2015\Projects\MS ATG Code sample\MS ATG Code sample\bin\System.Web.WebPages.Razor.dll
+c:\users\tmoor\documents\visual studio 2015\Projects\MS ATG Code sample\MS ATG Code sample\bin\WebGrease.dll
+c:\users\tmoor\documents\visual studio 2015\Projects\MS ATG Code sample\MS ATG Code sample\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+c:\users\tmoor\documents\visual studio 2015\Projects\MS ATG Code sample\MS ATG Code sample\bin\System.Web.Helpers.xml
+c:\users\tmoor\documents\visual studio 2015\Projects\MS ATG Code sample\MS ATG Code sample\bin\System.Web.Mvc.xml
+c:\users\tmoor\documents\visual studio 2015\Projects\MS ATG Code sample\MS ATG Code sample\bin\System.Web.Optimization.xml
+c:\users\tmoor\documents\visual studio 2015\Projects\MS ATG Code sample\MS ATG Code sample\bin\System.Web.Razor.xml
+c:\users\tmoor\documents\visual studio 2015\Projects\MS ATG Code sample\MS ATG Code sample\bin\System.Web.WebPages.xml
+c:\users\tmoor\documents\visual studio 2015\Projects\MS ATG Code sample\MS ATG Code sample\bin\System.Web.WebPages.Deployment.xml
+c:\users\tmoor\documents\visual studio 2015\Projects\MS ATG Code sample\MS ATG Code sample\bin\System.Web.WebPages.Razor.xml
+c:\users\tmoor\documents\visual studio 2015\Projects\MS ATG Code sample\MS ATG Code sample\bin\Antlr3.Runtime.pdb
+c:\users\tmoor\documents\visual studio 2015\Projects\MS ATG Code sample\MS ATG Code sample\bin\Newtonsoft.Json.xml
+c:\users\tmoor\documents\visual studio 2015\Projects\MS ATG Code sample\MS ATG Code sample\bin\EntityFramework.xml
+c:\users\tmoor\documents\visual studio 2015\Projects\MS ATG Code sample\MS ATG Code sample\bin\EntityFramework.SqlServer.xml
+c:\users\tmoor\documents\visual studio 2015\Projects\MS ATG Code sample\MS ATG Code sample\bin\Microsoft.AspNet.Identity.Core.xml
+c:\users\tmoor\documents\visual studio 2015\Projects\MS ATG Code sample\MS ATG Code sample\bin\Microsoft.AspNet.Identity.Owin.xml
+c:\users\tmoor\documents\visual studio 2015\Projects\MS ATG Code sample\MS ATG Code sample\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+c:\users\tmoor\documents\visual studio 2015\Projects\MS ATG Code sample\MS ATG Code sample\bin\Microsoft.Owin.xml
+c:\users\tmoor\documents\visual studio 2015\Projects\MS ATG Code sample\MS ATG Code sample\bin\Microsoft.Owin.Host.SystemWeb.xml
+c:\users\tmoor\documents\visual studio 2015\Projects\MS ATG Code sample\MS ATG Code sample\bin\Microsoft.Owin.Security.xml
+c:\users\tmoor\documents\visual studio 2015\Projects\MS ATG Code sample\MS ATG Code sample\bin\Microsoft.Owin.Security.Facebook.xml
+c:\users\tmoor\documents\visual studio 2015\Projects\MS ATG Code sample\MS ATG Code sample\bin\Microsoft.Owin.Security.Cookies.xml
+c:\users\tmoor\documents\visual studio 2015\Projects\MS ATG Code sample\MS ATG Code sample\bin\Microsoft.Owin.Security.OAuth.xml
+c:\users\tmoor\documents\visual studio 2015\Projects\MS ATG Code sample\MS ATG Code sample\bin\Microsoft.Owin.Security.Google.xml
+c:\users\tmoor\documents\visual studio 2015\Projects\MS ATG Code sample\MS ATG Code sample\bin\Microsoft.Owin.Security.Twitter.xml
+c:\users\tmoor\documents\visual studio 2015\Projects\MS ATG Code sample\MS ATG Code sample\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+c:\users\tmoor\documents\visual studio 2015\Projects\MS ATG Code sample\MS ATG Code sample\obj\Debug\MS ATG Code sample.csprojResolveAssemblyReference.cache
+c:\users\tmoor\documents\visual studio 2015\Projects\MS ATG Code sample\MS ATG Code sample\obj\Debug\MS ATG Code sample.dll
+c:\users\tmoor\documents\visual studio 2015\Projects\MS ATG Code sample\MS ATG Code sample\obj\Debug\MS ATG Code sample.pdb
+c:\users\tmoor\documents\visual studio 2015\Projects\MS ATG Code sample\MS ATG Code sample\obj\Debug\MS_ATG_Code_sample.Migrations.initialdbcreation.resources
+c:\users\tmoor\documents\visual studio 2015\Projects\MS ATG Code sample\MS ATG Code sample\obj\Debug\MS ATG Code sample.csproj.GenerateResource.Cache
+C:\code9\MSATGSample\MS ATG Code sample\bin\roslyn\csc.exe
+C:\code9\MSATGSample\MS ATG Code sample\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\code9\MSATGSample\MS ATG Code sample\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\code9\MSATGSample\MS ATG Code sample\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\code9\MSATGSample\MS ATG Code sample\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\code9\MSATGSample\MS ATG Code sample\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\code9\MSATGSample\MS ATG Code sample\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\code9\MSATGSample\MS ATG Code sample\bin\roslyn\System.Collections.Immutable.dll
+C:\code9\MSATGSample\MS ATG Code sample\bin\roslyn\System.Reflection.Metadata.dll
+C:\code9\MSATGSample\MS ATG Code sample\bin\roslyn\vbc.exe
+C:\code9\MSATGSample\MS ATG Code sample\bin\roslyn\VBCSCompiler.exe
+C:\code9\MSATGSample\MS ATG Code sample\bin\roslyn\VBCSCompiler.exe.config
+C:\code9\MSATGSample\MS ATG Code sample\bin\MS ATG Code sample.dll.config
+C:\code9\MSATGSample\MS ATG Code sample\bin\MS ATG Code sample.dll
+C:\code9\MSATGSample\MS ATG Code sample\bin\MS ATG Code sample.pdb
+C:\code9\MSATGSample\MS ATG Code sample\bin\Antlr3.Runtime.dll
+C:\code9\MSATGSample\MS ATG Code sample\bin\EntityFramework.dll
+C:\code9\MSATGSample\MS ATG Code sample\bin\EntityFramework.SqlServer.dll
+C:\code9\MSATGSample\MS ATG Code sample\bin\Microsoft.AspNet.Identity.Core.dll
+C:\code9\MSATGSample\MS ATG Code sample\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\code9\MSATGSample\MS ATG Code sample\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\code9\MSATGSample\MS ATG Code sample\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\code9\MSATGSample\MS ATG Code sample\bin\Microsoft.Owin.dll
+C:\code9\MSATGSample\MS ATG Code sample\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\code9\MSATGSample\MS ATG Code sample\bin\Microsoft.Owin.Security.Cookies.dll
+C:\code9\MSATGSample\MS ATG Code sample\bin\Microsoft.Owin.Security.dll
+C:\code9\MSATGSample\MS ATG Code sample\bin\Microsoft.Owin.Security.Facebook.dll
+C:\code9\MSATGSample\MS ATG Code sample\bin\Microsoft.Owin.Security.Google.dll
+C:\code9\MSATGSample\MS ATG Code sample\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\code9\MSATGSample\MS ATG Code sample\bin\Microsoft.Owin.Security.OAuth.dll
+C:\code9\MSATGSample\MS ATG Code sample\bin\Microsoft.Owin.Security.Twitter.dll
+C:\code9\MSATGSample\MS ATG Code sample\bin\Microsoft.Web.Infrastructure.dll
+C:\code9\MSATGSample\MS ATG Code sample\bin\Newtonsoft.Json.dll
+C:\code9\MSATGSample\MS ATG Code sample\bin\Owin.dll
+C:\code9\MSATGSample\MS ATG Code sample\bin\System.Web.Helpers.dll
+C:\code9\MSATGSample\MS ATG Code sample\bin\System.Web.Mvc.dll
+C:\code9\MSATGSample\MS ATG Code sample\bin\System.Web.Optimization.dll
+C:\code9\MSATGSample\MS ATG Code sample\bin\System.Web.Razor.dll
+C:\code9\MSATGSample\MS ATG Code sample\bin\System.Web.WebPages.Deployment.dll
+C:\code9\MSATGSample\MS ATG Code sample\bin\System.Web.WebPages.dll
+C:\code9\MSATGSample\MS ATG Code sample\bin\System.Web.WebPages.Razor.dll
+C:\code9\MSATGSample\MS ATG Code sample\bin\WebGrease.dll
+C:\code9\MSATGSample\MS ATG Code sample\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\code9\MSATGSample\MS ATG Code sample\bin\System.Web.Helpers.xml
+C:\code9\MSATGSample\MS ATG Code sample\bin\System.Web.Mvc.xml
+C:\code9\MSATGSample\MS ATG Code sample\bin\System.Web.Optimization.xml
+C:\code9\MSATGSample\MS ATG Code sample\bin\System.Web.Razor.xml
+C:\code9\MSATGSample\MS ATG Code sample\bin\System.Web.WebPages.xml
+C:\code9\MSATGSample\MS ATG Code sample\bin\System.Web.WebPages.Deployment.xml
+C:\code9\MSATGSample\MS ATG Code sample\bin\System.Web.WebPages.Razor.xml
+C:\code9\MSATGSample\MS ATG Code sample\bin\Antlr3.Runtime.pdb
+C:\code9\MSATGSample\MS ATG Code sample\bin\Newtonsoft.Json.xml
+C:\code9\MSATGSample\MS ATG Code sample\bin\EntityFramework.xml
+C:\code9\MSATGSample\MS ATG Code sample\bin\EntityFramework.SqlServer.xml
+C:\code9\MSATGSample\MS ATG Code sample\bin\Microsoft.AspNet.Identity.Core.xml
+C:\code9\MSATGSample\MS ATG Code sample\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\code9\MSATGSample\MS ATG Code sample\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\code9\MSATGSample\MS ATG Code sample\bin\Microsoft.Owin.xml
+C:\code9\MSATGSample\MS ATG Code sample\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\code9\MSATGSample\MS ATG Code sample\bin\Microsoft.Owin.Security.xml
+C:\code9\MSATGSample\MS ATG Code sample\bin\Microsoft.Owin.Security.Facebook.xml
+C:\code9\MSATGSample\MS ATG Code sample\bin\Microsoft.Owin.Security.Cookies.xml
+C:\code9\MSATGSample\MS ATG Code sample\bin\Microsoft.Owin.Security.OAuth.xml
+C:\code9\MSATGSample\MS ATG Code sample\bin\Microsoft.Owin.Security.Google.xml
+C:\code9\MSATGSample\MS ATG Code sample\bin\Microsoft.Owin.Security.Twitter.xml
+C:\code9\MSATGSample\MS ATG Code sample\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\code9\MSATGSample\MS ATG Code sample\obj\Debug\MS ATG Code sample.csprojResolveAssemblyReference.cache
+C:\code9\MSATGSample\MS ATG Code sample\obj\Debug\MS_ATG_Code_sample.Migrations.initialdbcreation.resources
+C:\code9\MSATGSample\MS ATG Code sample\obj\Debug\MS ATG Code sample.csproj.GenerateResource.Cache
+C:\code9\MSATGSample\MS ATG Code sample\obj\Debug\MS ATG Code sample.dll
+C:\code9\MSATGSample\MS ATG Code sample\obj\Debug\MS ATG Code sample.pdb
